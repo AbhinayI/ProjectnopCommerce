@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [SauceDemoSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Sauce Test - Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="version" value="108"/>
+    <parameter name="platform" value="windows 11"/>
+    <classes>
+      <class name="com.nopCommerceTestClasses.CheckoutPageTest">
+        <methods>
+          <include name="verifyEnteringUserBillingDetails"/>
+          <include name="verifyShippingMethod"/>
+          <include name="verifyDetailsAndConfirmOrder"/>
+          <include name="verifyPaymentMethod"/>
+          <include name="setUp"/>
+          <include name="set"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nopCommerceTestClasses.CheckoutPageTest -->
+      <class name="com.nopCommerceTestClasses.CartPageTest">
+        <methods>
+          <include name="verifyCartPageProductInfo"/>
+          <include name="set"/>
+          <include name="verifyI_AgreeNotSelected"/>
+          <include name="setUp"/>
+          <include name="verifyCartCheckout"/>
+          <include name="tearDown"/>
+          <include name="verifyCartDetailsUpdated"/>
+          <include name="verifyI_AgreeSelected"/>
+        </methods>
+      </class> <!-- com.nopCommerceTestClasses.CartPageTest -->
+    </classes>
+  </test> <!-- Sauce Test - Chrome(failed) -->
+  <test thread-count="5" parallel="tests" name="Sauce Test - FF(failed)">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="version" value="108"/>
+    <parameter name="platform" value="macOS 12"/>
+    <classes>
+      <class name="com.nopCommerceTestClasses.ProductPageTest">
+        <methods>
+          <include name="verifyClickOnproductMenu"/>
+          <include name="verifyProductAddToCart"/>
+          <include name="verifyclickOnProduct"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="set"/>
+        </methods>
+      </class> <!-- com.nopCommerceTestClasses.ProductPageTest -->
+      <class name="com.nopCommerceTestClasses.LoginPageTest">
+        <methods>
+          <include name="set"/>
+          <include name="setUp"/>
+          <include name="VerifyLogOut"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nopCommerceTestClasses.LoginPageTest -->
+    </classes>
+  </test> <!-- Sauce Test - FF(failed) -->
+</suite> <!-- Failed suite [SauceDemoSuite] -->

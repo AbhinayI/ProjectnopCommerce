@@ -1,0 +1,141 @@
+2023-01-27 18:01:14.982 [main] INFO   TestBase - Browser is Opened
+2023-01-27 18:01:15.147 [main] INFO   TestBase - Browser is maximized
+2023-01-27 18:01:19.187 [main] INFO   TestBase - URL is Opened
+2023-01-27 18:01:19.267 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-27 18:01:19.269 [main] INFO   IndexPageTest - Test - verifyFollowLinksClickable
+2023-01-27 18:01:19.270 [main] INFO   IndexPageTest - All follow links clicked and titles are:
+2023-01-27 18:01:22.207 [main] INFO   IndexPageTest - =========== Test Case End ===========
+2023-01-27 18:01:23.083 [main] INFO   TestBase - Browser is closed
+2023-01-27 18:01:25.235 [main] INFO   TestBase - Browser is Opened
+2023-01-27 18:01:25.442 [main] INFO   TestBase - Browser is maximized
+2023-01-27 18:01:29.350 [main] INFO   TestBase - URL is Opened
+2023-01-27 18:01:29.365 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-27 18:01:29.365 [main] INFO   IndexPageTest - Test - verifyIndexPageLogo
+2023-01-27 18:01:29.552 [main] INFO   IndexPageTest - =========== Test Case End ===========
+2023-01-27 18:01:30.372 [main] INFO   TestBase - Browser is closed
+2023-01-27 18:01:32.430 [main] INFO   TestBase - Browser is Opened
+2023-01-27 18:01:32.574 [main] INFO   TestBase - Browser is maximized
+2023-01-27 18:01:35.690 [main] INFO   TestBase - URL is Opened
+2023-01-27 18:01:35.712 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-27 18:01:35.713 [main] INFO   IndexPageTest - Test - verifyIndexPageTitle
+2023-01-27 18:01:35.729 [main] INFO   IndexPageTest - Index Page Title is:nopCommerce demo store
+2023-01-27 18:01:35.729 [main] INFO   IndexPageTest - =========== Test Case End ===========
+2023-01-27 18:01:36.550 [main] INFO   TestBase - Browser is closed
+2023-01-27 18:01:39.712 [main] INFO   TestBase - Browser is Opened
+2023-01-27 18:01:39.897 [main] INFO   TestBase - Browser is maximized
+2023-01-27 18:01:44.101 [main] INFO   TestBase - URL is Opened
+2023-01-27 18:01:45.927 [main] INFO   RegisterPageTest - =========== Test Case Start ===========
+2023-01-27 18:01:45.928 [main] INFO   RegisterPageTest - Test - createUserTest
+2023-01-27 18:01:45.929 [main] INFO   RegisterPageTest - User details entered
+2023-01-27 18:01:50.755 [main] INFO   RegisterPageTest - User registration completed
+2023-01-27 18:01:50.756 [main] INFO   RegisterPageTest - =========== Test Case End ===========
+2023-01-27 18:01:51.581 [main] INFO   TestBase - Browser is closed
+2023-01-27 18:01:53.678 [main] INFO   TestBase - Browser is Opened
+2023-01-27 18:01:53.853 [main] INFO   TestBase - Browser is maximized
+2023-01-27 18:01:57.488 [main] INFO   TestBase - URL is Opened
+2023-01-27 18:01:59.305 [main] INFO   RegisterPageTest - =========== Test Case Start ===========
+2023-01-27 18:01:59.306 [main] INFO   RegisterPageTest - Test - verifyRegisterPageTitle
+2023-01-27 18:01:59.322 [main] INFO   RegisterPageTest - Register Page Title is:nopCommerce demo store. Register
+2023-01-27 18:01:59.323 [main] INFO   RegisterPageTest - =========== Test Case End ===========
+2023-01-27 18:02:00.119 [main] INFO   TestBase - Browser is closed
+2023-01-27 18:02:02.087 [main] INFO   TestBase - Browser is Opened
+2023-01-27 18:02:02.263 [main] INFO   TestBase - Browser is maximized
+2023-01-27 18:02:05.741 [main] INFO   TestBase - URL is Opened
+2023-01-27 18:02:06.533 [main] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-27 18:02:06.533 [main] INFO   LoginPageTest - Test - VerifyLogOut
+2023-01-27 18:02:06.534 [main] INFO   LoginPageTest - Entering Login Credentials
+2023-01-27 18:02:07.616 [main] INFO   LoginPageTest - Clicked on LogOut
+2023-01-28 08:44:33.752 [TestNG-tests-2] INFO   TestBase - URL is Opened
+2023-01-28 08:44:37.479 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:44:58.343 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-28 08:44:58.344 [TestNG-tests-1] INFO   LoginPageTest - Test - VerifyLogOut
+2023-01-28 08:44:58.345 [TestNG-tests-1] INFO   LoginPageTest - Entering Login Credentials
+2023-01-28 08:45:10.392 [TestNG-tests-2] INFO   TestBase - URL is Opened
+2023-01-28 08:45:11.717 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:45:13.652 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-28 08:45:13.653 [TestNG-tests-1] INFO   LoginPageTest - Test - VerifyLogin
+2023-01-28 08:45:13.654 [TestNG-tests-1] INFO   LoginPageTest - Entered Login Credentials
+2023-01-28 08:45:16.390 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case End ===========
+2023-01-28 08:45:29.085 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:45:30.789 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-28 08:45:30.789 [TestNG-tests-1] INFO   LoginPageTest - Test - VerifyNewsLetterSubscription
+2023-01-28 08:45:30.790 [TestNG-tests-1] INFO   LoginPageTest - Entered Login Credentials
+2023-01-28 08:45:33.077 [TestNG-tests-1] INFO   LoginPageTest - Entered email for Newsletter subscription
+2023-01-28 08:45:34.447 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case End ===========
+2023-01-28 08:45:47.443 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:45:49.093 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-28 08:45:49.094 [TestNG-tests-1] INFO   LoginPageTest - Test - VerifyProductsSearchBySearchBox
+2023-01-28 08:45:49.094 [TestNG-tests-1] INFO   LoginPageTest - Entering Login Credentials
+2023-01-28 08:45:51.406 [TestNG-tests-1] INFO   LoginPageTest - Clicked on SearchBox and entering product name
+2023-01-28 08:45:53.578 [TestNG-tests-1] INFO   LoginPageTest - Clicked on SearchBox button
+2023-01-28 08:45:53.799 [TestNG-tests-1] INFO   LoginPageTest - Search Page Title is:nopCommerce demo store. Search
+2023-01-28 08:45:53.800 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case End ===========
+2023-01-28 08:46:06.173 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:46:07.479 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-28 08:46:07.479 [TestNG-tests-1] INFO   LoginPageTest - Test - VerifyProductsSearchBySearchBox
+2023-01-28 08:46:07.480 [TestNG-tests-1] INFO   LoginPageTest - Entering Login Credentials
+2023-01-28 08:46:09.524 [TestNG-tests-1] INFO   LoginPageTest - Clicked on SearchBox and entering product name
+2023-01-28 08:46:11.796 [TestNG-tests-1] INFO   LoginPageTest - Clicked on SearchBox button
+2023-01-28 08:46:11.981 [TestNG-tests-1] INFO   LoginPageTest - Search Page Title is:nopCommerce demo store. Search
+2023-01-28 08:46:11.981 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case End ===========
+2023-01-28 08:46:24.521 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:46:26.198 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case Start ===========
+2023-01-28 08:46:26.198 [TestNG-tests-1] INFO   LoginPageTest - Test - VerifyProductsSearchBySearchBox
+2023-01-28 08:46:26.199 [TestNG-tests-1] INFO   LoginPageTest - Entering Login Credentials
+2023-01-28 08:46:28.404 [TestNG-tests-1] INFO   LoginPageTest - Clicked on SearchBox and entering product name
+2023-01-28 08:46:31.166 [TestNG-tests-1] INFO   LoginPageTest - Clicked on SearchBox button
+2023-01-28 08:46:31.391 [TestNG-tests-1] INFO   LoginPageTest - Search Page Title is:nopCommerce demo store. Search
+2023-01-28 08:46:31.392 [TestNG-tests-1] INFO   LoginPageTest - =========== Test Case End ===========
+2023-01-28 08:46:44.233 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:46:47.565 [TestNG-tests-1] INFO   ProductPageTest - =========== Test Case Start ===========
+2023-01-28 08:46:47.573 [TestNG-tests-1] INFO   ProductPageTest - Test - verifyClickOnproductMenu
+2023-01-28 08:46:47.574 [TestNG-tests-1] INFO   ProductPageTest - Hover the product menu and clicked
+2023-01-28 08:47:51.410 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:47:56.705 [TestNG-tests-1] INFO   ProductPageTest - =========== Test Case Start ===========
+2023-01-28 08:47:56.706 [TestNG-tests-1] INFO   ProductPageTest - Test - verifyProductAddToCart
+2023-01-28 08:47:56.706 [TestNG-tests-1] INFO   ProductPageTest - Hover the product menu and clicked
+2023-01-28 08:48:59.701 [TestNG-tests-1] INFO   TestBase - URL is Opened
+2023-01-28 08:49:03.904 [TestNG-tests-1] INFO   ProductPageTest - =========== Test Case Start ===========
+2023-01-28 08:49:03.904 [TestNG-tests-1] INFO   ProductPageTest - Test - verifyclickOnProduct
+2023-01-28 08:49:03.905 [TestNG-tests-1] INFO   ProductPageTest - Hover the product menu and clicked
+2023-01-28 10:57:00.289 [main] INFO   TestBase - Browser is Opened
+2023-01-28 10:57:00.783 [main] INFO   TestBase - Browser is maximized
+2023-01-28 10:57:05.578 [main] INFO   TestBase - URL is Opened
+2023-01-28 10:57:06.091 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-28 10:57:06.092 [main] INFO   IndexPageTest - Test - verifyFollowLinksClickable
+2023-01-28 10:57:06.092 [main] INFO   IndexPageTest - All follow links clicked and titles are:
+2023-01-28 10:58:11.824 [main] INFO   IndexPageTest - =========== Test Case End ===========
+2023-01-28 10:58:13.296 [main] INFO   TestBase - Browser is closed
+2023-01-28 10:58:17.043 [main] INFO   TestBase - Browser is Opened
+2023-01-28 10:58:17.186 [main] INFO   TestBase - Browser is maximized
+2023-01-28 10:58:24.142 [main] INFO   TestBase - URL is Opened
+2023-01-28 10:58:24.172 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-28 10:58:24.173 [main] INFO   IndexPageTest - Test - verifyIndexPageLogo
+2023-01-28 10:58:24.333 [main] INFO   IndexPageTest - =========== Test Case End ===========
+2023-01-28 10:58:25.096 [main] INFO   TestBase - Browser is closed
+2023-01-28 10:58:27.257 [main] INFO   TestBase - Browser is Opened
+2023-01-28 10:58:27.411 [main] INFO   TestBase - Browser is maximized
+2023-01-28 10:58:40.009 [main] INFO   TestBase - URL is Opened
+2023-01-28 10:58:40.033 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-28 10:58:40.033 [main] INFO   IndexPageTest - Test - verifyIndexPageTitle
+2023-01-28 10:58:40.054 [main] INFO   IndexPageTest - Index Page Title is:nopCommerce demo store
+2023-01-28 10:58:40.055 [main] INFO   IndexPageTest - =========== Test Case End ===========
+2023-01-28 10:58:40.847 [main] INFO   TestBase - Browser is closed
+2023-01-28 10:59:56.485 [main] INFO   TestBase - Browser is Opened
+2023-01-28 10:59:56.642 [main] INFO   TestBase - Browser is maximized
+2023-01-28 11:00:05.293 [main] INFO   TestBase - URL is Opened
+2023-01-28 11:00:05.359 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-28 11:00:05.359 [main] INFO   IndexPageTest - Test - verifyIndexPageTitle
+2023-01-28 11:00:05.370 [main] INFO   IndexPageTest - Index Page Title is:nopCommerce demo store
+2023-01-28 11:05:22.100 [main] INFO   TestBase - Browser is Opened
+2023-01-28 11:05:22.801 [main] INFO   TestBase - Browser is maximized
+2023-01-28 11:05:25.638 [main] INFO   TestBase - URL is Opened
+2023-01-28 11:05:25.994 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-28 11:05:25.995 [main] INFO   IndexPageTest - Test - verifyIndexPageTitle
+2023-01-28 11:05:26.007 [main] INFO   IndexPageTest - Index Page Title is:nopCommerce demo store
+2023-01-28 11:07:05.476 [main] INFO   TestBase - Browser is Opened
+2023-01-28 11:07:05.684 [main] INFO   TestBase - Browser is maximized
+2023-01-28 11:07:12.109 [main] INFO   TestBase - URL is Opened
+2023-01-28 11:07:12.200 [main] INFO   IndexPageTest - =========== Test Case Start ===========
+2023-01-28 11:07:12.201 [main] INFO   IndexPageTest - Test - verifyIndexPageTitle
+2023-01-28 11:07:12.215 [main] INFO   IndexPageTest - Index Page Title is:nopCommerce demo store
