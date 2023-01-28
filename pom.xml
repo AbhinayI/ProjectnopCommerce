@@ -5,7 +5,10 @@
 	<groupId>nopCommerce</groupId>
 	<artifactId>nopCommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+	<properties>
+		<maven.compiler.source>1.6</maven.compiler.source>
+		<maven.compiler.target>1.6</maven.compiler.target>
+	</properties>
 	<dependencies>
 
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
@@ -36,21 +39,21 @@
 			<artifactId>poi</artifactId>
 			<version>5.2.2</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.2</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml-schemas</artifactId>
 			<version>4.1.2</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
@@ -91,7 +94,7 @@
 			<artifactId>log4j-api</artifactId>
 			<version>2.19.0</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
