@@ -24,7 +24,7 @@ public class IndexPageTest extends TestBase {
 		log.info("Test - verifyIndexPageTitle");
 		String title = index.getIndexPageTitle();
 		log.info("Index Page Title is:" + title);
-		Assert.assertEquals(title, "nopCommerce demo storeubk");
+		Assert.assertEquals(title, "nopCommerce demo store");
 		log.info("=========== Test Case End ===========");
 	}
 
