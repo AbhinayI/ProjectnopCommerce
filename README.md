@@ -1,7 +1,7 @@
 # nopCommerce
 
 ## Overview
-This is an automated test framework for the nopCommerce web application of Hybrid Framework with Page Object Model, implemented using  Selenium WebDriver, TestNG, Maven, and Java. The framework includes automated test cases for various features of the web application and supports cross-browser and cross-platform testing.
+This is an automated test framework for the nopCommerce web application of **Hybrid Framework** with Page Object Model, implemented using  Selenium WebDriver, TestNG, Maven, and Java. The framework includes automated test cases for various features of the web application and supports cross-browser and cross-platform testing.
 
 ## Features
 - Developed test scripts and test suites using Selenium WebDriver, TestNG, Maven, and Java
